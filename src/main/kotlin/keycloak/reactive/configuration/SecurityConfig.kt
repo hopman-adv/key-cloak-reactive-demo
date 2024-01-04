@@ -1,4 +1,4 @@
-package keycloakreactive.configuration
+package keycloak.reactive.configuration
 
 import com.jayway.jsonpath.JsonPath
 import org.springframework.context.annotation.Bean

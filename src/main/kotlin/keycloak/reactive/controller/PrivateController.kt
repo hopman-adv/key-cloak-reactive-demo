@@ -1,4 +1,4 @@
-package keycloakreactive.controller
+package keycloak.reactive.controller
 
 import org.springframework.http.ResponseEntity
 import org.springframework.security.access.prepost.PreAuthorize

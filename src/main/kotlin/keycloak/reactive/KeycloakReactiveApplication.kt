@@ -1,4 +1,4 @@
-package keycloakreactive
+package keycloak.reactive
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.autoconfigure.security.reactive.ReactiveUserDetailsServiceAutoConfiguration

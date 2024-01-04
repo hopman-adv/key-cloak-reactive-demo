@@ -1,4 +1,4 @@
-package keycloakreactive.controller
+package keycloak.reactive.controller
 
 import org.springframework.http.HttpStatus
 import org.springframework.http.HttpStatusCode
